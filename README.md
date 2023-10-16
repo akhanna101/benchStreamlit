@@ -12,3 +12,5 @@ This repo creates a streamlit app for creating and running an Arthur Bench test 
 #Haven't included requirements.txt, just need to have arthur bench installed and ```pip install streamlit``` into your environment. 
 
 #To run, navigate to folder containing "streamlitBench.py" and use the command ```streamlit run streamlitBench.py```
+
+#After clicking "Run your test suite" within the streamlit app, the address for the Bench local UI will be printed in your terminal. Navigate to that address to view your results. 
