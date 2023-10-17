@@ -3,7 +3,8 @@ This repo creates a streamlit app for creating and running an Arthur Bench test 
 
 #Start by installing the open source package Arthur Bench (https://github.com/arthur-ai/bench)https://github.com/arthur-ai/bench). Follow instructions for the local serving of results. 
 
-#This repository also contains two sample datasets for evaluation purposes (News Articles and IPCC Climate Report). 
+#This repository also contains four sample datasets for evaluation purposes (News Articles and IPCC Climate Report). Two of these datasets are the reference sets for the creation of a test suite (NewsSummaryInputsRef.csv and climateSummaries.csv) and two of the datasets are candidates to be evaluated and run through our test suites (candidateNewsSummaries.csv and climateCandidate.csv)
+  
 
 #Clone repo (or drop files) into the directory where you have installed arthur-bench ("streamlitBench.py" should be at the same level as the folders "tests", "docs", "examples", etc.)
 
